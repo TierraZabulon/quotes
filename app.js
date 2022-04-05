@@ -40,6 +40,12 @@
 let myArr = [
   "When you have a dream, youve got to grab it and never let go.",
   "Nothing is impossible. The word itself says I am possible!",
+  "Keep your face always toward the sunshine, and shadows will fall behind you.",
+  "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "You define your own life. Don/’t let other people write your script.",
+  "You are never too old to set another goal or to dream a new dream.",
+  "Spread love everywhere you go.",
+  "Belief creates the actual fact.",
 ];
 let random = myArr.length;
 for (let i = 0; i < random; i++) {

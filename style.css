@@ -39,7 +39,8 @@ input {
   border: 2px solid black;
   outline: none;
   font-size: 18px;
-
+  inline-size: 700px;
+  overflow-wrap: break-word;
   background-color: rgba(189, 168, 183, 0.756);
 }
 input ::placeholder {
